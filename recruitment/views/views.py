@@ -22,7 +22,7 @@ from datetime import date, datetime
 from itertools import chain
 from urllib.parse import parse_qs
 
-import fitz  # type: ignore
+# import fitz  # type: ignore
 from django import template
 from django.conf import settings
 from django.contrib import messages
