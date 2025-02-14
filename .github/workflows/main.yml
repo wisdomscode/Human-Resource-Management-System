@@ -22,4 +22,4 @@ jobs:
           protocol: ftps  # Use secure FTP
           port: 21
           local-dir: ./  # Sync everything from the root directory
-          server-dir: /horilla/  # Ensure this is the correct path on cPanel
+          # server-dir: /horilla/  # Ensure this is the correct path on cPanel
